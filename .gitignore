@@ -10,6 +10,12 @@ credentials.yaml
 .dta
 data/*
 data
+DailyData/*
+DailyData
+DailyData/
+residuals/
+residuals
+residuals/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
